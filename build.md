@@ -1,5 +1,9 @@
 YouTube: 18.16.37  
 
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
+
+[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
+
 ---
 Changelog:  
 CLI: j-hc/revanced-cli-2.22.0-all.jar  
