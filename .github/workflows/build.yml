@@ -123,11 +123,13 @@ jobs:
           ${BODY}
 
           *▼ Download Links:*
+          
+          APKs:
+          ${APKS}
+          
           Modules:
           ${MODULES}
 
-          APKs:
-          ${APKS}
           "
           echo "'$MSG'"
           POST="https://api.telegram.org/bot${TG_TOKEN}/sendMessage"
